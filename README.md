@@ -385,7 +385,7 @@ vim常用的插件：
 * [gulp-livereload](https://www.npmjs.com/package/gulp-livereload)：自动刷新
 
 ####7. grunt工具
-> 带contrib的是官方插件 [官方插件地址](http://gruntjs.com/plugins)
+> 带contrib的是官方插件 [官方插件地址](http://gruntjs.com/plugins)。
 * [grunt-contrib-copy](npm install grunt-contrib-copy --save-dev)：个性化复制、合并文件;
 * [grunt-contrib-watch](npm install grunt-contrib-watch --save-dev)：检测文件改动，执行相应任务;
 * [grunt-contrib-uglify](npm install grunt-contrib-uglify --save-dev)：压缩、合并js;
