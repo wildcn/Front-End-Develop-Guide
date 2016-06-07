@@ -386,9 +386,17 @@ vim常用的插件：
 
 ####7. grunt工具
 > 带contrib的是官方插件 [官方插件地址](http://gruntjs.com/plugins)。
+
 * [grunt-contrib-copy](npm install grunt-contrib-copy --save-dev)：个性化复制、合并文件;
 * [grunt-contrib-watch](npm install grunt-contrib-watch --save-dev)：检测文件改动，执行相应任务;
 * [grunt-contrib-uglify](npm install grunt-contrib-uglify --save-dev)：压缩、合并js;
+* [grunt-contrib-jshint](npm install grunt-contrib-jshint --save-dev)：jshint;
+* [grunt-contrib-coffee](npm install grunt-contrib-coffee --save-dev)：coffee;
+* [grunt-contrib-concat](npm install grunt-contrib-concat --save-dev)：连接、合并文件;
+* [grunt-contrib-htmlmin](npm install grunt-contrib-htmlmin --save-dev)：html压缩、重命名（包括后缀）;
+* [grunt-contrib-cssmin](npm install grunt-contrib-cssmin --save-dev)：css压缩;
+* [grunt-contrib-less](npm install grunt-contrib-less --save-dev)：实时less编译;
+* [grunt-contrib-sass](npm install grunt-contrib-sass --save-dev)：实时sass编译;
 
 ####8.webpack
 
